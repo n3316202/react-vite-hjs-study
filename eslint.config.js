@@ -3,7 +3,7 @@ import globals from 'globals' // 브라우저 전역 변수(예: window, documen
 import react from 'eslint-plugin-react' // React 관련 ESLint 규칙 플러그인
 import reactHooks from 'eslint-plugin-react-hooks' // React Hooks 관련 ESLint 규칙 플러그인
 import reactRefresh from 'eslint-plugin-react-refresh' // React Fast Refresh 규칙 플러그인 (개발 중 핫 리로드 지원)
-import prettier from 'eslint-config-prettier' // Prettier 설정 추가
+//import prettier from 'eslint-config-prettier' // Prettier 설정 추가
 import prettierPlugin from 'eslint-plugin-prettier' // Prettier 플러그인 추가
 
 export default [
