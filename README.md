@@ -32,4 +32,7 @@ npm create vite@latest my-project -- --template react
 │ ├─ pages // 페이지들을 모아두는 폴더
 
 
-https://github.com/moseskim/book-react-code
+https://github.com/moseskim/book-react-code => 예제코드
+
+
+https://seungineer.tistory.com/46  => ES6 문법
